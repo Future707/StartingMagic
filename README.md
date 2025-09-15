@@ -4,7 +4,7 @@
 
 Her programlama dili ayrı klasörlerde saklanır. Scriptlerin çoğu çalıştırılabilir olup, bir kısmı yalnızca okunup incelenmesi amacıyla yazılmıştır.  
 
-[StartingMagic](https://github.com/Future707/Inventory/blob/main/Images/Starting.jpg)
+![StartingMagic](https://github.com/Future707/Inventory/blob/main/Images/Starting.jpg)
 ---
 
 ## 🎯 Amaç
