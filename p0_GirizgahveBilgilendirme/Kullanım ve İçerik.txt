@@ -1,0 +1,21 @@
+Açıklama:  
+Bu dökümantasyon, JavaScript’e dair başlangıç seviyesinden ileri düzeye kadar uzanan bir öğrenim yolculuğunu yansıtmaktadır.  
+Her bölüm, ilgili JS dosyalarında yorum satırları şeklinde belirtilmiş başlıklar ve açıklamalar doğrultusunda hazırlanmıştır.  
+Amaç, okuyucuya temel bilgilerden ileri seviye konulara kadar sistemli bir gelişim çerçevesi sunmak ve bu süreci kolay takip edilebilir bir biçimde organize etmektir.  
+
+İçerik Yapısı:  
+- Temel Kavramlar: Değişkenler, Operatörler, Veri Tipleri  
+- Kontrol Yapıları: Döngüler, Karar Yapıları, Koşullar  
+- Fonksiyonlar: Tanım, Kullanım, Parametreler, Scope  
+- Diziler ve Objeler: Yapılar, Metotlar, Kullanım Alanları  
+- İleri Seviye Konular: ES6+ Özellikleri, Asenkron Programlama, Modüller  
+- Uygulama Örnekleri: Pratik Projeler, Algoritmalar, Senaryo Çözümleri  
+
+Not: Bu dökümantasyon, öğrenim sürecinde teoriyi destekleyen örnekler ve uygulamalarla donatılmıştır. Her dosya, yorum satırlarıyla konunun özünü aktarmayı amaçlar.  
+
+Yazar: [Future Developer]  
+Tarih: [24.08.2025]  
+
+
+### not : Bu belgenin `içerik yapısı` daima genişlemektedir...
+
