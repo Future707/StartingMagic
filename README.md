@@ -18,8 +18,8 @@ Her programlama dili ayrı klasörlerde saklanır. Scriptlerin çoğu çalışt�
 ## 📂 Klasör Yapısı
 
 Her programlama dili ayrı bir klasörde tutulur. Örnek yapı:  
-
-StartingMagic/
+```
+StartingMagic
 │
 ├── Python/
 │ ├── 01-variables.py
@@ -39,7 +39,7 @@ StartingMagic/
 │ └── README.md
 │
 └── README.md
-
+```
 
 ---
 
