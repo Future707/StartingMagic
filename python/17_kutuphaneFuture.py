@@ -3,7 +3,7 @@ Script: p17_kutuphaneFuture.py
 Açıklama: FutureX kütüphane sistemi - kullanıcı kayıtları, kitap ödünç alma, iade, arama, listeleme, istatistikler, admin panel.
 Yazar: [Future Developer]
 Tarih: [01.09.2025]
-Sürüm: 2.50 (Detaylı Eğitim Versiyonu - ~500 satır)
+Sürüm: 2.50 (Detaylı Eğitim Versiyonu -)
 Not: Bu dosya, StartingMagic platformunda yer alan eğitim amaçlı örneğin geliştirilmiş halidir.
 """
 
